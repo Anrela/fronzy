@@ -5,7 +5,7 @@
   <li>Use fronzy media-queries like this:<br>
   @include fronzy(md) { ... }</li>
 </ol>
-This image will help you to use media-queries:
+<h2>This image will help you to use media-queries:</h2>
 <img src="https://habrastorage.org/files/599/a18/65f/599a1865ff1243f6b09626389a695273.jpg" alt="image">
 
 
